@@ -1,0 +1,12 @@
+h1 {
+    color: red;
+    animation-name: camaleon;
+    animation-duration: 1s;
+    animation-iteration-count: infinite;
+} 
+@keyframes camaleon {
+    from { color:red;}
+    to { color: green;}
+}
+    
+
